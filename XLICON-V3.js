@@ -6858,7 +6858,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/blur?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/blur?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
                 break
 
 // < For beautiful >	
@@ -6869,7 +6869,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/beautiful?url${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/beautiful?url${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For facepalm >
@@ -6880,7 +6880,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/facepalm?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/facepalm?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For invert >
@@ -6891,7 +6891,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/invert?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/invert?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For pixelate >
@@ -6902,7 +6902,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/pixelate?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/pixelate?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For rainbow >
@@ -6913,7 +6913,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/rainbow?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/rainbow?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For trigger >	
@@ -6924,7 +6924,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://vihangayt.me/maker/trigger?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://vihangayt.me/maker/trigger?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For wanted >	
@@ -6935,7 +6935,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/trigger?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/trigger?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For wasted >
@@ -6946,7 +6946,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/wasted?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/wasted?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For carbon >	
@@ -6955,7 +6955,7 @@ break
             case 'carbonimage': {
  if (!text) return replygcXlicon('Where is the text?')
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://vihangayt.me/maker/carbonimg?q=${text}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://vihangayt.me/maker/carbonimg?q=${text}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For colorize >	
@@ -6965,7 +6965,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://vihangayt.me/tools/colorize?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://vihangayt.me/tools/colorize?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
              break
 
 // < For Burn >
@@ -6976,7 +6976,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/burn?amount=5&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/burn?amount=5&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For Sharpen >
@@ -6999,7 +6999,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/brightness?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/brightness?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For darkness >
@@ -7010,7 +7010,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/darkness?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/darkness?amount=50&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For resize >
@@ -7021,7 +7021,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/resize?height=500&width=500&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/resize?height=500&width=500&url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 
@@ -7033,7 +7033,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/delete?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/delete?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 
@@ -7045,7 +7045,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/jail?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/jail?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For joke>
@@ -7056,7 +7056,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/jokeOverHead?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/jokeOverHead?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For hitler>
@@ -7067,7 +7067,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/hitler?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/hitler?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For trash>
@@ -7078,7 +7078,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/trash?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/trash?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For rip>
@@ -7089,7 +7089,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/rip?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/rip?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For greyscale>
@@ -7100,7 +7100,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/greyscale?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/greyscale?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For sepia>
@@ -7111,7 +7111,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/sepia?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/sepia?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For shit>
@@ -7122,7 +7122,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/shit?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/shit?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For circle>
@@ -7133,7 +7133,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/circle?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/circle?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For reply>
@@ -7144,7 +7144,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/reply?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/reply?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For guildIcon>
@@ -7155,7 +7155,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/guildIcon?name=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/guildIcon?name=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For phub>
@@ -7166,7 +7166,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/phub?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/phub?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For quote>
@@ -7178,7 +7178,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/quote?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/quote?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For clyde>
@@ -7189,7 +7189,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/clyde?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/clyde?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For opinion>
@@ -7200,7 +7200,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/opinion?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/opinion?message=hiiiii&name=SalmanSer&image=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For bed>
@@ -7211,7 +7211,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/bed?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/bed?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break
 
 // < For kiss>
@@ -7222,7 +7222,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/kiss?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/kiss?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 
@@ -7234,7 +7234,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api-smd-1.vercel.app/api/maker/fuse?image1=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api-smd-1.vercel.app/api/maker/fuse?image1=${anu}` },caption: "➫𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2�" }, { quoted: m}) }
             break			
 
 // < For enhance >				
@@ -7243,7 +7243,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api.maher-zubair.tech/maker/enhance?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api.maher-zubair.tech/maker/enhance?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
 
 // < For dehaze >			
@@ -7252,7 +7252,7 @@ break
                 let media = await XliconBotInc.downloadAndSaveMediaMessage(quoted)
                 let anu = await TelegraPh(media)
                 XliconBotInc.sendMessage(m.chat, {
-                    image: { url: `https://api.maher-zubair.tech/maker/dehaze?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑�" }, { quoted: m}) }
+                    image: { url: `https://api.maher-zubair.tech/maker/dehaze?url=${anu}` },caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 NEZZ V2" }, { quoted: m}) }
             break
            
   case 'totalfeature':
@@ -7271,7 +7271,7 @@ break
 	    let mot = pickRandom(["⌬", "⏣", "❐", "❑", "➛", "✧", "✯"])
             let xmenu_oh = `
 ┌─❖
-│ *_Hi_* _Senpai_ 👋 
+│ Ssup bro 
 └┬❖  ${pushname} 
  ✑  ${xeonytimewisher} 😄 
   └────────────┈ ▱╼❲⭐❳
@@ -7286,7 +7286,7 @@ ${mot} 𝗠𝗼𝗱𝗲 : ${XliconBotInc.public ? 'Public' : `Self`}
 ${mot} 𝗣𝗹𝘂𝗴𝗶𝗻𝘀: ${Xliconfeature()}
 ${mot} 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 ${mot} 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-${mot} 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : *_SalmanSer Server_*
+${mot} 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : NYAMIRA SERVER
 ${mot} 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 ${mot} 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length} User
 ${mot} 𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${global.db.data.settings[botNumber].totalhit} Hit
@@ -7430,7 +7430,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7449,10 +7449,10 @@ let xmenu_oh = `*_HI_*...👋🏻 *${pushname}*
 ┃ *ʙᴏᴛ ɴᴀᴍᴇ* : ${botname}
 ┃ *ᴘʟᴜɢɪɴs* : ${Xliconfeature()}
 ┃ *ᴘʀᴇғɪx* :  [ ${prefix} ]
-┃ *ᴠᴇʀsɪᴏɴ* : 3.0.5
+┃ *ᴠᴇʀsɪᴏɴ* : 2
 ┃ *ᴍᴏᴅᴇ* : ${XliconBotInc.public ? 'Public' : `Self`}
 ┃ *ᴛʏᴘᴇ sᴄʀɪᴘᴛ* : ɴᴏᴅᴇ_ᴊs
-┃ *ʜᴏsᴛ* : ᴋᴀʟɪʟɪɴᴜx
+┃ *ʜᴏsᴛ* : NEZZ KNOWS
 └⟝————ᙍᙊ
         \n${readmore}\n\n${allmenu(prefix, hituet)}`
 if (typemenu === 'v1') {
@@ -7552,7 +7552,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7663,7 +7663,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7774,7 +7774,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7886,7 +7886,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7997,7 +7997,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8108,7 +8108,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8219,7 +8219,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8330,7 +8330,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8441,7 +8441,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8552,7 +8552,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8664,7 +8664,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8775,7 +8775,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8886,7 +8886,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -8997,7 +8997,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -9108,7 +9108,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -9219,7 +9219,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -9330,7 +9330,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -9441,7 +9441,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/c8JJBZZ/peakpx-2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
